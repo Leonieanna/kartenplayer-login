@@ -1,6 +1,6 @@
-# Kartenplayer – Spotify-Login
+# Kartenspieler – Spotify-Login
 
-Weiterleitungsseite für die Spotify-Anmeldung des Kartenplayers (ESP32).
+Weiterleitungsseite für die Spotify-Anmeldung des Kartenspielers (ESP32).
 
 Spotify verlangt für den Login eine HTTPS-Adresse, die der Player im Heimnetz nicht hat.
 Diese Seite nimmt den Login-Code von Spotify entgegen und leitet ihn an den Player im
